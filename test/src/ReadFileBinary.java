@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class ReadFileBinary {
+public class  ReadFileBinary {
 
     public void writeFile(Student student){
         FileOutputStream f;

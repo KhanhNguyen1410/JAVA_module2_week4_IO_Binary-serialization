@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Product/Product.iml" filepath="$PROJECT_DIR$/Product/Product.iml" />
       <module fileurl="file://$PROJECT_DIR$/copyBigFile/copyBigFile.iml" filepath="$PROJECT_DIR$/copyBigFile/copyBigFile.iml" />
       <module fileurl="file://$PROJECT_DIR$/week4_IOJava2.iml" filepath="$PROJECT_DIR$/week4_IOJava2.iml" />
     </modules>
